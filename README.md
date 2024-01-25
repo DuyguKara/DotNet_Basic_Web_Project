@@ -4,7 +4,7 @@
 ## Overview
 In this project, I embed a ready-made html template in my project and made some parts dynamic. So I have a website belonging to a travel company, and I was able to dynamically pulling hotel information.
 
-Firstly i needed to include entity framework in my mvc project. So I downloaded the entity framework.
+Firstly, I needed to include entity framework in my mvc project. So I downloaded the entity framework.
 
 Then I downloaded a ready-made template from the internet.
 
